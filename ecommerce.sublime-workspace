@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htm",
+				"html_"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"home",
+				"home_page"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ecommerce/views.py",
+			"settings":
+			{
+				"buffer_size": 154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/ecommerce/urls.py",
+			"settings":
+			{
+				"buffer_size": 784,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rajithl/Dev/ecommerce",
+		"/Users/rajithl/Dev/ecommerce/src",
+		"/Users/rajithl/Dev/ecommerce/src/ecommerce"
+	],
+	"file_history":
+	[
+		"/Users/rajithl/Dev/ecommerce/src/ecommerce/__init__.py",
+		"/Users/rajithl/Desktop/cc5note",
+		"/Users/rajithl/Desktop/::need isolated run:GUI needed",
+		"/Users/rajithl/Desktop/var HtmlReporter = require('protractor-beautiful-r",
+		"/Users/rajithl/Desktop/5Note.csv",
+		"/+RUN apt-get -qy --no-install-recommends install \\",
+		"/FROM openjdk:8",
+		"/'.:tests:admin user:HLS_109_verifycontentsonavate",
+		"/'.:tests:admin user:QE16adminlogcombchkInt",
+		"/Users/rajithl/Desktop/CL30.csv",
+		"/Users/rajithl/Downloads/test-result-22/app.js",
+		"/Users/rajithl/IdeaProjects/huub-e2e/test-result/app.js",
+		"/Users/rajithl/IdeaProjects/huub-e2e/conf.js",
+		"/Users/rajithl/Documents/HubbapE2E/E2E local Backups/huub-e2e/tests/admin user/QE16adminlogcombchkInt.js",
+		"/Users/rajithl/Downloads/test-result 147/0008000e-00ff-0078-00d2-00d200a20046.json",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE89Addresslocaljpprefix.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE169Activitylog.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/bugs/QE103MenuAndProfileModalOverlapping.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/bugs/QE86GlobalSearchBarBackgroundColorDarker.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/bugs/QE45ProductionError255Exceed.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/features/QE160VerifyKotTabAndFields.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/features/QE140featverkotintergration.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/features/QE95FormLocalizationJapaneseAutoComplete.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/EmployeeprofilePageuserView.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/AdminuserlogPageobjectadopt.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/LoginPage.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/SuperAdminPage.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/FilterPage.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/Employeetemplatepage.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/MainPages/AdvancedFilterPage.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE172passwordresetfolw.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE152Companysettings.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE29AccountManagementintPermissionAllowInt.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE16adminlogcombchkInt.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE15Companyusersignup.js",
+		"/Users/rajithl/Downloads/huubhrdevteam-huubhr-e2e-automatic-28e6d36527d1/tests/admin user/QE4VerifyHuubhrSignUpDisplayedYear.js",
+		"/5269275241909178",
+		"/Users/rajithl/Desktop/Performance test results/Huubhr-Stress-Test-soapui-project.xml",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation (6).js",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation (4).js",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation (3).js",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation (2).js",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation (1).js",
+		"/Users/rajithl/Downloads/QE15CompanyusersignupStreestestcomcreation.js",
+		"/Users/rajithl/IdeaProjects/Soap10oct/HuubHR-Public-API-soapui-project.xml",
+		"/Users/rajithl/IdeaProjects/huub-e2e/E2E Test results/Test Results - Protractor.xml",
+		"/Users/rajithl/Documents/HubbapE2E/File upload paths for protractor/KOTSyncHuubHR formatedCSV cckothuubhr.csv",
+		"/Users/rajithl/Desktop/KOTSyncHuubHR formated CSV cckothuubhr.csv",
+		"/Users/rajithl/Desktop/CSV_up.csv",
+		"/Users/rajithl/Documents/HubbapE2E/SublimeTexts/Authorization Token format with bearer",
+		"/Users/rajithl/Downloads/jwks.json",
+		"/Users/rajithl/Documents/1.Provide ~70-80% of end to end automatic tests fo",
+		"/KOT data valiadtions",
+		"/```[Task update on 21 th May]",
+		"/Users/rajithl/IdeaProjects/huubhr-webapp/bower_components/angular-i18n/it-it.js",
+		"/Users/rajithl/Downloads/hr_Test+SUMA1_201804092103.csv",
+		"/Users/rajithl/IdeaProjects/huub-e2e/QE16adminlogcombchkIntsumaInt.js",
+		"/Users/rajithl/IdeaProjects/huub-e2e/QE16adminlogcombchkInt.js",
+		"/Users/rajithl/Documents/HubbapE2E/Sublime Texts/'adminuserlogcombinecheck.js',",
+		"/Users/rajithl/Downloads/ZFJ-Cycles-02-28-2018.xml",
+		"/Users/rajithl/Downloads/hr_Test+Lakmal+company_201802221408.csv",
+		"/Users/rajithl/Downloads/hr_Test+Lakmal+company_201802221338.csv"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ecommerce/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ecommerce/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
