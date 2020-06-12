@@ -2,11 +2,8 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home_page(request):
-	return HttpResponse("Python_Ecommerce_Homepage_Lakmal_test")
-
+	return HttpResponse("Python_ecommerce_Homepage_Lakmal")
 def about_page(request):
-    return HttpResponse("Python_Ecommerce_Homepage_Lakmal_test")
-
+    return HttpResponse("About page")
 def contact_page(request):
-    return HttpResponse("Python_Ecommerce_Homepage_Lakmal_test")
-
+    return HttpResponse("Contact page")
