@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc1a4be-6fcb-47d8-9b27-b58c61864d0e" name="Default Changelist" comment="" />
+    <list default="true" id="9dc1a4be-6fcb-47d8-9b27-b58c61864d0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ecommerce/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/context.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/loader_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/loader_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/loaders/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/loaders/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/template/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/templatetags/tz.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/templatetags/tz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/test/testcases.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/test/testcases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.8/site-packages/django/test/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.8/site-packages/django/test/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecommerce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecommerce/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecommerce/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecommerce/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/about_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/about_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/contact_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/contact_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/home_page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,25 +46,59 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dBiBqlxEaNn8uOFT9CgGXYAHkV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/templates" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/templates" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added initial home page" />
+    <MESSAGE value="Added renamed pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added renamed pages" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2054" y="-10" key="CommitChangelistDialog2" timestamp="1591906201420">
+    <state x="550" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595650740807">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="550" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.832@0.23.1440.832" timestamp="1595650740807" />
+    <state x="2054" y="-10" key="CommitChangelistDialog2" timestamp="1591906383822">
       <screen x="1440" y="-125" width="1920" height="1057" />
     </state>
-    <state x="2054" y="-10" key="CommitChangelistDialog2/0.23.1440.832/1440.-125.1920.1057@1440.-125.1920.1057" timestamp="1591906201420" />
+    <state x="2054" y="-10" key="CommitChangelistDialog2/0.23.1440.832/1440.-125.1920.1057@1440.-125.1920.1057" timestamp="1591906383822" />
+    <state x="625" y="148" key="RollbackChangesDialog" timestamp="1595648797553">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="625" y="148" key="RollbackChangesDialog/0.23.1440.832@0.23.1440.832" timestamp="1595648797553" />
     <state x="1967" y="135" key="SettingsEditor" timestamp="1591904980346">
       <screen x="1440" y="-125" width="1920" height="1057" />
     </state>
@@ -38,9 +107,19 @@
       <screen x="1440" y="-125" width="1920" height="1057" />
     </state>
     <state x="2041" y="146" key="Vcs.Push.Dialog.v2/0.23.1440.832/1440.-125.1920.1057@1440.-125.1920.1057" timestamp="1591906301333" />
-    <state x="2064" y="87" width="586" height="735" key="find.popup" timestamp="1591904827578">
+    <state x="192" y="123" width="1102" height="632" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595652561078">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="192" y="123" width="1102" height="632" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1595652561078" />
+    <state x="2245" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591906802025">
       <screen x="1440" y="-125" width="1920" height="1057" />
     </state>
+    <state x="2245" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.832/1440.-125.1920.1057@1440.-125.1920.1057" timestamp="1591906802025" />
+    <state x="468" y="190" width="642" height="579" key="find.popup" timestamp="1595514403778">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="624" y="-845" width="586" height="735" key="find.popup/0.23.1440.832/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1595506944778" />
+    <state x="468" y="190" width="642" height="579" key="find.popup/0.23.1440.832/0.-1057.1920.1057@0.23.1440.832" timestamp="1595514403778" />
     <state x="2064" y="87" width="586" height="735" key="find.popup/0.23.1440.832/1440.-125.1920.1057@1440.-125.1920.1057" timestamp="1591904827578" />
     <state x="2235" y="302" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591906319567">
       <screen x="1440" y="-125" width="1920" height="1057" />

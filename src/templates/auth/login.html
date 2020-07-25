@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+    <title>{% block title %}My amazing site{% endblock %}</title>
+</head>
+
+<body>
+<form action="login" method="post">
+    {% csrf_token %}
+    <input type="text"> name="username" placeholder="username><br>
+    <input type="password"> name="password" placeholder="password><br>
+    <input type="Submit">
+</form>
+
+</body>
+</html>
